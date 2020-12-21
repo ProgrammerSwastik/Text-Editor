@@ -1,0 +1,20 @@
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\bin\Debug\Freelancer Tutorial Text Editor.exe.config
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\bin\Debug\Freelancer Tutorial Text Editor.exe
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\bin\Debug\Freelancer Tutorial Text Editor.pdb
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\bin\Debug\Freelancer Tutorial Text Editor.xml
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\obj\Debug\Freelancer_Tutorial_Text_Editor.Form1.resources
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\obj\Debug\Freelancer_Tutorial_Text_Editor.Resources.resources
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\obj\Debug\Freelancer Tutorial Text Editor.vbproj.GenerateResource.Cache
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\obj\Debug\Freelancer Tutorial Text Editor.exe
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\obj\Debug\Freelancer Tutorial Text Editor.xml
+C:\Users\Josh\AppData\Local\Temporary Projects\Freelancer Tutorial Text Editor\obj\Debug\Freelancer Tutorial Text Editor.pdb
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\bin\Debug\Freelancer Tutorial Text Editor.exe.config
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\obj\Debug\Freelancer Tutorial Text Editor.exe
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\obj\Debug\Freelancer Tutorial Text Editor.xml
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\obj\Debug\Freelancer Tutorial Text Editor.pdb
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\bin\Debug\Freelancer Tutorial Text Editor.exe
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\bin\Debug\Freelancer Tutorial Text Editor.pdb
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\bin\Debug\Freelancer Tutorial Text Editor.xml
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\obj\Debug\Freelancer_Tutorial_Text_Editor.Form1.resources
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\obj\Debug\Freelancer_Tutorial_Text_Editor.Resources.resources
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\Freelancer Tutorial Text Editor\Freelancer Tutorial Text Editor\obj\Debug\Freelancer Tutorial Text Editor.vbproj.GenerateResource.Cache
